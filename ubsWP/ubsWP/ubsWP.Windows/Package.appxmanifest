@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
 
-  <Identity Name="de80bee0-d104-42a6-8621-2f8b66072f4b"
-            Publisher="CN=joao.gabriel"
+  <Identity Name="bd679abd-1cf8-4fb4-81e9-cf60f5621f77"
+            Publisher="CN=beatriz.rezener"
             Version="1.0.0.0" />
 
   <Properties>
     <DisplayName>ubsWP.Windows</DisplayName>
-    <PublisherDisplayName>joao.gabriel</PublisherDisplayName>
+    <PublisherDisplayName>beatriz.rezener</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

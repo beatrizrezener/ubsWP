@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAB-F26-04</Machine>
+    <WindowsUser>beatriz.rezener</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bd679abd-1cf8-4fb4-81e9-cf60f5621f77</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>158C251AC3E3DD29A5EA89D560BF906C1F1E30FE09FD40A6A72114101D9C5DD4</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bd679abd-1cf8-4fb4-81e9-cf60f5621f77_1.0.0.0_neutral__zf681y3yy162w</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bd679abd-1cf8-4fb4-81e9-cf60f5621f77_zf681y3yy162w!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bd679abd-1cf8-4fb4-81e9-cf60f5621f77</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=beatriz.rezener</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T23:01:21.799</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\ubsWP.Windows.exe">
+      <PackagePath>ubsWP.Windows.exe</PackagePath>
+      <Modified>2015-06-08T23:01:20.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T13:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2015-06-08T22:57:41.864</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-08T23:01:20.076</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2015-06-08T23:01:20.081</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2015-06-08T23:01:20.085</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2015-06-08T23:01:20.089</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\ubsWP.Windows.xr.xml">
+      <PackagePath>ubsWP.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-08T23:01:19.536</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\ubsWP\ubsWP.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-08T23:01:21.166</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

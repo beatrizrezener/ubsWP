@@ -2823,6 +2823,11 @@ namespace SQLite
 			var query = Take (1);
 			return query.ToList<T>().FirstOrDefault ();
 		}
+
+        internal List<ubsWP.Unidade> ToList()
+        {
+            throw new NotImplementedException();
+        }
     }
 
 	public static class SQLite3

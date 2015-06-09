@@ -1,0 +1,8 @@
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\App.xaml
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\App.xbf
+C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\obj\Debug\XamlSaveStateFile.xml

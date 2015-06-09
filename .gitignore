@@ -8,9 +8,11 @@ Thumbs.db
 *.suo
 *.user
 *.cache
+**/obj
+**/bin
 #ubsWP/**/obj/
 #ubsWP/**/bin/
-ubsWP/saudf/saudf.WindowsPhone/obj/
-ubsWP/saudf/saudf.WindowsPhone/bin/
+#ubsWP/saudf/saudf.WindowsPhone/obj/
+#ubsWP/saudf/saudf.WindowsPhone/bin/
 
 [Tt]est[Rr]esult*/

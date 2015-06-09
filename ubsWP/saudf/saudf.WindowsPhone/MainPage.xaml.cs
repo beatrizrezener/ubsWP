@@ -6,8 +6,10 @@ using System.Runtime.InteropServices.WindowsRuntime;
 using Windows.Devices.Geolocation;
 using Windows.Foundation;
 using Windows.Foundation.Collections;
+using Windows.Storage.Streams;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
+using Windows.UI.Xaml.Controls.Maps;
 using Windows.UI.Xaml.Controls.Primitives;
 using Windows.UI.Xaml.Data;
 using Windows.UI.Xaml.Input;
@@ -85,6 +87,13 @@ namespace saudf
             }
             myMapControl.Center = geoposition.Coordinate.Point;
             myMapControl.ZoomLevel = 15;
+
+            MapIcon mapIcon = new MapIcon();
+            mapIcon.Image = RandomAccessStreamReference.CreateFromUri(new Uri("ms-appx:///Assets/PinkPushPin.png"));
+            mapIcon.NormalizedAnchorPoint = new Point(0.25, 0.9);
+            mapIcon.Location = geoposition.Coordinate.Point;
+            mapIcon.Title = "You are here";
+            myMapControl.MapElements.Add(mapIcon);
         }
     }
 }

@@ -19,9 +19,15 @@
     <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\bin\x86\Debug\saudf.WindowsPhone.exe">
       <PackagePath>saudf.WindowsPhone.exe</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\Assets\location-icon.png">
+      <PackagePath>Assets\location-icon.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\Assets\PinkPushPin.png">
+      <PackagePath>Assets\PinkPushPin.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\beatriz.rezener\Documents\ubsWP\ubsWP\saudf\saudf.WindowsPhone\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>

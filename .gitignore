@@ -1,25 +1,13 @@
 #Ignore thumbnails created by Windows
-
 Thumbs.db
 
-
-
 #Ignore Connection Database file
-
 */ConexaoBancoController.*
 
-
-
 #Ignore files created by Visual Studio
-
 *.suo
-
 *.user
-
 *.cache
-
 [Oo]bj/
-
 [Bb]in/
-
 [Tt]est[Rr]esult*/

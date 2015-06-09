@@ -8,6 +8,6 @@ Thumbs.db
 *.suo
 *.user
 *.cache
-[Oo]bj/
-[Bb]in/
+obj/
+bin/
 [Tt]est[Rr]esult*/

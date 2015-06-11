@@ -1,0 +1,986 @@
+[
+  {
+    "id":1,
+    "idTipo":2,
+    "idEndereco":1,
+    "nome":"CSG 01 GAMA"
+  },
+  {
+    "id":2,
+    "idTipo":2,
+    "idEndereco":2,
+    "nome":"PSU SAMAMBAIA QUADRA 317"
+  },
+  {
+    "id":3,
+    "idTipo":2,
+    "idEndereco":3,
+    "nome":"UBS SERRA AZUL"
+  },
+  {
+    "id":4,
+    "idTipo":2,
+    "idEndereco":4,
+    "nome":"PSU BRAZLANDIA 01"
+  },
+  {
+    "id":5,
+    "idTipo":2,
+    "idEndereco":5,
+    "nome":"PSU QUADRA 18"
+  },
+  {
+    "id":6,
+    "idTipo":2,
+    "idEndereco":6,
+    "nome":"CSC 03 CEILANDIA"
+  },
+  {
+    "id":7,
+    "idTipo":2,
+    "idEndereco":7,
+    "nome":"CSC 07 CEILANDIA"
+  },
+  {
+    "id":8,
+    "idTipo":2,
+    "idEndereco":8,
+    "nome":"PSU SANTA MARIA 02"
+  },
+  {
+    "id":9,
+    "idTipo":2,
+    "idEndereco":9,
+    "nome":"CSP 03 PLANALTINA"
+  },
+  {
+    "id":10,
+    "idTipo":2,
+    "idEndereco":10,
+    "nome":"CSG 04 GAMA"
+  },
+  {
+    "id":11,
+    "idTipo":2,
+    "idEndereco":11,
+    "nome":"PSU AREAL QS 08"
+  },
+  {
+    "id":12,
+    "idTipo":2,
+    "idEndereco":12,
+    "nome":"CSRF 03 RIACHO FUNDO I"
+  },
+  {
+    "id":13,
+    "idTipo":2,
+    "idEndereco":13,
+    "nome":"PSU POSTO URBANO N 01"
+  },
+  {
+    "id":14,
+    "idTipo":2,
+    "idEndereco":14,
+    "nome":"UBS MORRO AZUL"
+  },
+  {
+    "id":15,
+    "idTipo":2,
+    "idEndereco":15,
+    "nome":"UBS JOAO CANDIDO"
+  },
+  {
+    "id":16,
+    "idTipo":2,
+    "idEndereco":16,
+    "nome":"UBS MORRO DA CRUZ"
+  },
+  {
+    "id":17,
+    "idTipo":2,
+    "idEndereco":17,
+    "nome":"UBS JARDIM MORUMBI"
+  },
+  {
+    "id":18,
+    "idTipo":2,
+    "idEndereco":18,
+    "nome":"CSC 08 CEILANDIA"
+  },
+  {
+    "id":19,
+    "idTipo":2,
+    "idEndereco":19,
+    "nome":"UBS CHAPADINHA"
+  },
+  {
+    "id":20,
+    "idTipo":2,
+    "idEndereco":20,
+    "nome":"CSB 05 BRASILIA"
+  },
+  {
+    "id":21,
+    "idTipo":2,
+    "idEndereco":21,
+    "nome":"CSB 09 CRUZEIRO"
+  },
+  {
+    "id":22,
+    "idTipo":2,
+    "idEndereco":22,
+    "nome":"CSSM 01 SANTA MARIA"
+  },
+  {
+    "id":23,
+    "idTipo":2,
+    "idEndereco":23,
+    "nome":"CSSA 03 SAMAMBAIA"
+  },
+  {
+    "id":24,
+    "idTipo":2,
+    "idEndereco":24,
+    "nome":"CSG 05 GAMA"
+  },
+  {
+    "id":25,
+    "idTipo":2,
+    "idEndereco":25,
+    "nome":"CSF 04 RIACHO FUNDO II"
+  },
+  {
+    "id":26,
+    "idTipo":2,
+    "idEndereco":26,
+    "nome":"UBS RIACHO FUNDO II QN 15 D"
+  },
+  {
+    "id":27,
+    "idTipo":2,
+    "idEndereco":27,
+    "nome":"CST 07 TAGUATINGA"
+  },
+  {
+    "id":28,
+    "idTipo":2,
+    "idEndereco":28,
+    "nome":"CSS 03 SOBRADINHO"
+  },
+  {
+    "id":29,
+    "idTipo":2,
+    "idEndereco":29,
+    "nome":"CSS 02 SOBRADINHO"
+  },
+  {
+    "id":30,
+    "idTipo":2,
+    "idEndereco":30,
+    "nome":"PSU 2 RIACHO FUNDO II"
+  },
+  {
+    "id":31,
+    "idTipo":2,
+    "idEndereco":31,
+    "nome":"UBS PONTE ALTA"
+  },
+  {
+    "id":32,
+    "idTipo":2,
+    "idEndereco":32,
+    "nome":"PSR ENGENHO DAS LAGES"
+  },
+  {
+    "id":33,
+    "idTipo":2,
+    "idEndereco":33,
+    "nome":"CSB 15 ASA NORTE"
+  },
+  {
+    "id":34,
+    "idTipo":2,
+    "idEndereco":34,
+    "nome":"CST 04 TAGUATINGA"
+  },
+  {
+    "id":35,
+    "idTipo":2,
+    "idEndereco":35,
+    "nome":"CSNB 02 NUCLEO BANDEIRANTE"
+  },
+  {
+    "id":36,
+    "idTipo":2,
+    "idEndereco":36,
+    "nome":"UBS PONTE ALTA NORTE"
+  },
+  {
+    "id":37,
+    "idTipo":2,
+    "idEndereco":37,
+    "nome":"PSR ALMECEGAS"
+  },
+  {
+    "id":38,
+    "idTipo":2,
+    "idEndereco":38,
+    "nome":"PSU CONDOMINIO PRIVE"
+  },
+  {
+    "id":39,
+    "idTipo":2,
+    "idEndereco":39,
+    "nome":"PSR TAQUARA"
+  },
+  {
+    "id":40,
+    "idTipo":2,
+    "idEndereco":40,
+    "nome":"PSU RIACHO FUNDO II"
+  },
+  {
+    "id":41,
+    "idTipo":2,
+    "idEndereco":41,
+    "nome":"CANTINHO DA SAUDE GRANJA DO TORTO"
+  },
+  {
+    "id":42,
+    "idTipo":2,
+    "idEndereco":42,
+    "nome":"UBS VILA BOA"
+  },
+  {
+    "id":43,
+    "idTipo":2,
+    "idEndereco":43,
+    "nome":"CSP 04 ESTANCIA DE PLANALTINA"
+  },
+  {
+    "id":44,
+    "idTipo":2,
+    "idEndereco":44,
+    "nome":"PSR CAUB I"
+  },
+  {
+    "id":45,
+    "idTipo":2,
+    "idEndereco":45,
+    "nome":"CERPIS"
+  },
+  {
+    "id":46,
+    "idTipo":2,
+    "idEndereco":46,
+    "nome":"UBS SITIO DO GAMA"
+  },
+  {
+    "id":47,
+    "idTipo":2,
+    "idEndereco":47,
+    "nome":"UBS BASEVI"
+  },
+  {
+    "id":48,
+    "idTipo":2,
+    "idEndereco":48,
+    "nome":"CSGU 01 GUARA"
+  },
+  {
+    "id":49,
+    "idTipo":2,
+    "idEndereco":49,
+    "nome":"CST 01 TAGUATINGA"
+  },
+  {
+    "id":50,
+    "idTipo":2,
+    "idEndereco":50,
+    "nome":"CST 06 TAGUATINGA"
+  },
+  {
+    "id":51,
+    "idTipo":2,
+    "idEndereco":51,
+    "nome":"CENTRO DE SAUDE DA ESTRUTURAL"
+  },
+  {
+    "id":52,
+    "idTipo":2,
+    "idEndereco":52,
+    "nome":"PSR JARDIM II"
+  },
+  {
+    "id":53,
+    "idTipo":2,
+    "idEndereco":53,
+    "nome":"PSF EQUIPE 01 PSR PADDF"
+  },
+  {
+    "id":54,
+    "idTipo":2,
+    "idEndereco":54,
+    "nome":"PSU SANTA MARIA 01"
+  },
+  {
+    "id":55,
+    "idTipo":2,
+    "idEndereco":55,
+    "nome":"UBS CASA GRANDE"
+  },
+  {
+    "id":56,
+    "idTipo":2,
+    "idEndereco":56,
+    "nome":"UBS SAMAMBAIA QUADRA 501"
+  },
+  {
+    "id":57,
+    "idTipo":2,
+    "idEndereco":57,
+    "nome":"POSTO DE SAUDE N 01 JARDIM RORIZ"
+  },
+  {
+    "id":58,
+    "idTipo":2,
+    "idEndereco":58,
+    "nome":"CSG 06 GAMA"
+  },
+  {
+    "id":59,
+    "idTipo":2,
+    "idEndereco":59,
+    "nome":"CSB 07 BRASILIA"
+  },
+  {
+    "id":60,
+    "idTipo":2,
+    "idEndereco":60,
+    "nome":"CSS 01 SOBRADINHO"
+  },
+  {
+    "id":61,
+    "idTipo":2,
+    "idEndereco":61,
+    "nome":"PSR VARGEM BONITA"
+  },
+  {
+    "id":62,
+    "idTipo":2,
+    "idEndereco":62,
+    "nome":"CSCA 01 CANDANGOLANDIA"
+  },
+  {
+    "id":63,
+    "idTipo":2,
+    "idEndereco":63,
+    "nome":"UBS ENGENHO VELHO"
+  },
+  {
+    "id":64,
+    "idTipo":2,
+    "idEndereco":64,
+    "nome":"CSG 08 GAMA"
+  },
+  {
+    "id":65,
+    "idTipo":2,
+    "idEndereco":65,
+    "nome":"CSSM 02 SANTA MARIA"
+  },
+  {
+    "id":66,
+    "idTipo":2,
+    "idEndereco":66,
+    "nome":"CSPA 02 ITAPOA"
+  },
+  {
+    "id":67,
+    "idTipo":2,
+    "idEndereco":67,
+    "nome":"PSR SAO JOSE"
+  },
+  {
+    "id":68,
+    "idTipo":2,
+    "idEndereco":68,
+    "nome":"CST 08 TAGUATINGA"
+  },
+  {
+    "id":69,
+    "idTipo":2,
+    "idEndereco":69,
+    "nome":"CSRE 01 RECANTO DAS EMAS"
+  },
+  {
+    "id":70,
+    "idTipo":2,
+    "idEndereco":70,
+    "nome":"CSB 14 ASA NORTE"
+  },
+  {
+    "id":71,
+    "idTipo":2,
+    "idEndereco":71,
+    "nome":"PSR NOVA BETANIA"
+  },
+  {
+    "id":72,
+    "idTipo":2,
+    "idEndereco":72,
+    "nome":"CSB 08 BRASILIA"
+  },
+  {
+    "id":73,
+    "idTipo":2,
+    "idEndereco":73,
+    "nome":"PSR DVO"
+  },
+  {
+    "id":74,
+    "idTipo":2,
+    "idEndereco":74,
+    "nome":"PSU RECANTO DAS EMAS 01"
+  },
+  {
+    "id":75,
+    "idTipo":2,
+    "idEndereco":75,
+    "nome":"UBS SAO FRANCISCO SS"
+  },
+  {
+    "id":76,
+    "idTipo":2,
+    "idEndereco":76,
+    "nome":"UBS RAJADINHA"
+  },
+  {
+    "id":77,
+    "idTipo":2,
+    "idEndereco":77,
+    "nome":"UBS VEREDAS II QD 04"
+  },
+  {
+    "id":78,
+    "idTipo":2,
+    "idEndereco":78,
+    "nome":"CSGU 02 GUARA"
+  },
+  {
+    "id":79,
+    "idTipo":2,
+    "idEndereco":79,
+    "nome":"CSC 06 CEILANDIA"
+  },
+  {
+    "id":80,
+    "idTipo":2,
+    "idEndereco":80,
+    "nome":"UBS VALE DOS PINHEIROS"
+  },
+  {
+    "id":81,
+    "idTipo":2,
+    "idEndereco":81,
+    "nome":"CSC 12 CEILANDIA"
+  },
+  {
+    "id":82,
+    "idTipo":2,
+    "idEndereco":82,
+    "nome":"PSU SANTA MARIA 03"
+  },
+  {
+    "id":83,
+    "idTipo":2,
+    "idEndereco":83,
+    "nome":"CSG 03 GAMA"
+  },
+  {
+    "id":84,
+    "idTipo":2,
+    "idEndereco":84,
+    "nome":"CSC 10 CEILANDIA"
+  },
+  {
+    "id":85,
+    "idTipo":2,
+    "idEndereco":85,
+    "nome":"PSU RIACHO FUNDO I QN 01"
+  },
+  {
+    "id":86,
+    "idTipo":2,
+    "idEndereco":86,
+    "nome":"CST 02 TAGUATINGA"
+  },
+  {
+    "id":87,
+    "idTipo":2,
+    "idEndereco":87,
+    "nome":"CST 03 TAGUATINGA"
+  },
+  {
+    "id":88,
+    "idTipo":2,
+    "idEndereco":88,
+    "nome":"PSU ARAPOANGA"
+  },
+  {
+    "id":89,
+    "idTipo":2,
+    "idEndereco":89,
+    "nome":"CSG 02 GAMA"
+  },
+  {
+    "id":90,
+    "idTipo":2,
+    "idEndereco":90,
+    "nome":"CSSA 04 SAMAMBAIA"
+  },
+  {
+    "id":91,
+    "idTipo":2,
+    "idEndereco":91,
+    "nome":"CSC 02 CEILANDIA"
+  },
+  {
+    "id":92,
+    "idTipo":2,
+    "idEndereco":92,
+    "nome":"PSR BOA ESPERANCA"
+  },
+  {
+    "id":93,
+    "idTipo":2,
+    "idEndereco":93,
+    "nome":"ESF 402 EQUIPE DE SAUDE DA FAMILIA"
+  },
+  {
+    "id":94,
+    "idTipo":2,
+    "idEndereco":94,
+    "nome":"UBS LAGO OESTE"
+  },
+  {
+    "id":95,
+    "idTipo":2,
+    "idEndereco":95,
+    "nome":"PSR INCRA 8"
+  },
+  {
+    "id":96,
+    "idTipo":2,
+    "idEndereco":96,
+    "nome":"UBS BOSQUE 02"
+  },
+  {
+    "id":97,
+    "idTipo":2,
+    "idEndereco":97,
+    "nome":"CSPA 01 PARANOA"
+  },
+  {
+    "id":98,
+    "idTipo":2,
+    "idEndereco":98,
+    "nome":"PSR TABATINGA"
+  },
+  {
+    "id":99,
+    "idTipo":2,
+    "idEndereco":99,
+    "nome":"CSB 13 ASA NORTE"
+  },
+  {
+    "id":100,
+    "idTipo":2,
+    "idEndereco":100,
+    "nome":"UBS VILA NOVA I"
+  },
+  {
+    "id":101,
+    "idTipo":2,
+    "idEndereco":101,
+    "nome":"PSU ITAPUA"
+  },
+  {
+    "id":102,
+    "idTipo":2,
+    "idEndereco":102,
+    "nome":"POSTO DE SAUDE DO VALE"
+  },
+  {
+    "id":103,
+    "idTipo":2,
+    "idEndereco":103,
+    "nome":"CSB 12 ASA NORTE"
+  },
+  {
+    "id":104,
+    "idTipo":2,
+    "idEndereco":104,
+    "nome":"PSR SANTOS DUMONT"
+  },
+  {
+    "id":105,
+    "idTipo":2,
+    "idEndereco":105,
+    "nome":"CSC 05 CEILANDIA"
+  },
+  {
+    "id":106,
+    "idTipo":2,
+    "idEndereco":106,
+    "nome":"UBS SETOR TRADICIONAL"
+  },
+  {
+    "id":107,
+    "idTipo":2,
+    "idEndereco":107,
+    "nome":"UBS SAO FRANCISCO 01"
+  },
+  {
+    "id":108,
+    "idTipo":2,
+    "idEndereco":108,
+    "nome":"CSBZ 01 BRAZLANDIA"
+  },
+  {
+    "id":109,
+    "idTipo":2,
+    "idEndereco":109,
+    "nome":"CSC 11 CEILANDIA"
+  },
+  {
+    "id":110,
+    "idTipo":2,
+    "idEndereco":110,
+    "nome":"PSR CAPAO SECO"
+  },
+  {
+    "id":111,
+    "idTipo":2,
+    "idEndereco":111,
+    "nome":"CSBZ 02 BRAZLANDIA"
+  },
+  {
+    "id":112,
+    "idTipo":2,
+    "idEndereco":112,
+    "nome":"CSSB 01 SAO SEBASTIAO"
+  },
+  {
+    "id":113,
+    "idTipo":2,
+    "idEndereco":113,
+    "nome":"PSU LUCIO COSTA GUARA"
+  },
+  {
+    "id":114,
+    "idTipo":2,
+    "idEndereco":114,
+    "nome":"CENTRO DE SAUDE DO VARJAO"
+  },
+  {
+    "id":115,
+    "idTipo":2,
+    "idEndereco":115,
+    "nome":"CSSA 01 SAMAMBAIA"
+  },
+  {
+    "id":116,
+    "idTipo":2,
+    "idEndereco":116,
+    "nome":"PSR CATINGUEIRO"
+  },
+  {
+    "id":117,
+    "idTipo":2,
+    "idEndereco":117,
+    "nome":"CSSA 02 SAMAMBAIA"
+  },
+  {
+    "id":118,
+    "idTipo":2,
+    "idEndereco":118,
+    "nome":"UBS VILA ESTRUTURAL QUADRA 15"
+  },
+  {
+    "id":119,
+    "idTipo":2,
+    "idEndereco":119,
+    "nome":"UBS MINI CHACARAS"
+  },
+  {
+    "id":120,
+    "idTipo":2,
+    "idEndereco":120,
+    "nome":"UBS BICA DO DER"
+  },
+  {
+    "id":121,
+    "idTipo":2,
+    "idEndereco":121,
+    "nome":"PSR PIPIRIPAU"
+  },
+  {
+    "id":122,
+    "idTipo":2,
+    "idEndereco":122,
+    "nome":"PSR RIO PRETO"
+  },
+  {
+    "id":123,
+    "idTipo":2,
+    "idEndereco":123,
+    "nome":"CSGU 03 GUARA"
+  },
+  {
+    "id":124,
+    "idTipo":2,
+    "idEndereco":124,
+    "nome":"PSR CARIRU"
+  },
+  {
+    "id":125,
+    "idTipo":2,
+    "idEndereco":125,
+    "nome":"PSU POSTO URBANO N 02"
+  },
+  {
+    "id":126,
+    "idTipo":2,
+    "idEndereco":126,
+    "nome":"CST 05 TAGUATINGA"
+  },
+  {
+    "id":127,
+    "idTipo":2,
+    "idEndereco":127,
+    "nome":"CSB 11 ASA NORTE"
+  },
+  {
+    "id":128,
+    "idTipo":2,
+    "idEndereco":128,
+    "nome":"CSB 10 ASA NORTE"
+  },
+  {
+    "id":129,
+    "idTipo":2,
+    "idEndereco":129,
+    "nome":"CSC 04 CEILANDIA"
+  },
+  {
+    "id":130,
+    "idTipo":2,
+    "idEndereco":130,
+    "nome":"CSP 02 PLANALTINA"
+  },
+  {
+    "id":131,
+    "idTipo":2,
+    "idEndereco":131,
+    "nome":"CSRE 02 RECANTO DAS EMAS"
+  },
+  {
+    "id":132,
+    "idTipo":2,
+    "idEndereco":132,
+    "nome":"CSP 05 ARAPOANGA PLANALTINA"
+  },
+  {
+    "id":133,
+    "idTipo":1,
+    "idEndereco":133,
+    "nome":"Hospital de Base"
+  },
+  {
+    "id":134,
+    "idTipo":1,
+    "idEndereco":134,
+    "nome":"Hospital Alvorada Brasilia"
+  },
+  {
+    "id":135,
+    "idTipo":1,
+    "idEndereco":135,
+    "nome":"Hospital Prontonorte"
+  },
+  {
+    "id":136,
+    "idTipo":1,
+    "idEndereco":136,
+    "nome":"Hospital Santa Lucia"
+  },
+  {
+    "id":137,
+    "idTipo":1,
+    "idEndereco":137,
+    "nome":"Hospital Santa Helena"
+  },
+  {
+    "id":138,
+    "idTipo":1,
+    "idEndereco":138,
+    "nome":"Hospital Brasilia"
+  },
+  {
+    "id":139,
+    "idTipo":1,
+    "idEndereco":139,
+    "nome":"Hospital Regional de Saude de Brazlandia"
+  },
+  {
+    "id":140,
+    "idTipo":1,
+    "idEndereco":140,
+    "nome":"Rede SARAH de Hospitais de Reabilitacao"
+  },
+  {
+    "id":141,
+    "idTipo":1,
+    "idEndereco":141,
+    "nome":"Hospital Santa Luzia"
+  },
+  {
+    "id":142,
+    "idTipo":1,
+    "idEndereco":142,
+    "nome":"Hospital Daher "
+  },
+  {
+    "id":143,
+    "idTipo":1,
+    "idEndereco":143,
+    "nome":"Hospital Materno Infantil de Brasilia"
+  },
+  {
+    "id":144,
+    "idTipo":1,
+    "idEndereco":144,
+    "nome":"Hospital Regional da Asa Norte - HRAN"
+  },
+  {
+    "id":145,
+    "idTipo":1,
+    "idEndereco":145,
+    "nome":"Vida - UTI Movel"
+  },
+  {
+    "id":146,
+    "idTipo":1,
+    "idEndereco":146,
+    "nome":"Hospital Santa Marta"
+  },
+  {
+    "id":147,
+    "idTipo":1,
+    "idEndereco":147,
+    "nome":"Hospital Militar de Brasilia"
+  },
+  {
+    "id":148,
+    "idTipo":1,
+    "idEndereco":148,
+    "nome":"Hospital Naval de Brasilia"
+  },
+  {
+    "id":149,
+    "idTipo":1,
+    "idEndereco":149,
+    "nome":"Hospital Regional de Sobradinho"
+  },
+  {
+    "id":150,
+    "idTipo":1,
+    "idEndereco":150,
+    "nome":"Hospital das Forcas Armadas"
+  },
+  {
+    "id":151,
+    "idTipo":1,
+    "idEndereco":151,
+    "nome":"Hospital Planalto"
+  },
+  {
+    "id":152,
+    "idTipo":1,
+    "idEndereco":152,
+    "nome":"Home Hospital de Medicina Especializada"
+  },
+  {
+    "id":153,
+    "idTipo":1,
+    "idEndereco":153,
+    "nome":"Hospital Pronto Socorro Queimaduras"
+  },
+  {
+    "id":154,
+    "idTipo":1,
+    "idEndereco":154,
+    "nome":"Hospital de Apoio de Brasilia"
+  },
+  {
+    "id":155,
+    "idTipo":1,
+    "idEndereco":155,
+    "nome":"Hospital da Crianca de Brasilia"
+  },
+  {
+    "id":156,
+    "idTipo":1,
+    "idEndereco":156,
+    "nome":"Hospital Anchieta"
+  },
+  {
+    "id":157,
+    "idTipo":1,
+    "idEndereco":157,
+    "nome":"Centro de Saude No 02"
+  },
+  {
+    "id":158,
+    "idTipo":1,
+    "idEndereco":158,
+    "nome":"Posto de Saude - Riacho Fundo I"
+  },
+  {
+    "id":159,
+    "idTipo":1,
+    "idEndereco":159,
+    "nome":"Posto de Saude - Riacho Fundo II"
+  },
+  {
+    "id":160,
+    "idTipo":1,
+    "idEndereco":160,
+    "nome":"Hospital Regional do Guara"
+  },
+  {
+    "id":161,
+    "idTipo":1,
+    "idEndereco":161,
+    "nome":"UPA do Recanto das Emas"
+  },
+  {
+    "id":162,
+    "idTipo":1,
+    "idEndereco":162,
+    "nome":"UPA de Sao Sebastiao"
+  },
+  {
+    "id":163,
+    "idTipo":1,
+    "idEndereco":163,
+    "nome":"UPA de Samambaia"
+  },
+  {
+    "id":164,
+    "idTipo":1,
+    "idEndereco":164,
+    "nome":"UPA do Nucleo Bandeirante"
+  }
+]

@@ -1,0 +1,1150 @@
+[
+  {
+    "id":1,
+    "latitude":-16.0115647315974,
+    "longitude":-48.0734467506395,
+    "endereco":"QUADRA",
+    "bairro":"GAMA SUL"
+  },
+  {
+    "id":2,
+    "latitude":-15.8906614780421,
+    "longitude":-48.1121778488145,
+    "endereco":"QN 317 CJ 01 LT 01 AE",
+    "bairro":"SAMAMBAIA"
+  },
+  {
+    "id":3,
+    "latitude":-15.6358623504634,
+    "longitude":-47.8468751907335,
+    "endereco":"DF 420 KM 01 QUADRA 03 AE 01",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":4,
+    "latitude":-15.6698405742641,
+    "longitude":-48.200690746306,
+    "endereco":"QUADRA 03 LOTE 06",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":5,
+    "latitude":-15.7706701755519,
+    "longitude":-47.7785968780504,
+    "endereco":"QUADRA",
+    "bairro":"PARANOA"
+  },
+  {
+    "id":6,
+    "latitude":-15.8309447765346,
+    "longitude":-48.0963635444627,
+    "endereco":"AREA ESPECIAL LOTE D",
+    "bairro":"CEILANDIA SUL"
+  },
+  {
+    "id":7,
+    "latitude":-15.7956469058986,
+    "longitude":-48.1309747695909,
+    "endereco":"AREA ESPECIAL DE",
+    "bairro":"SETOR O"
+  },
+  {
+    "id":8,
+    "latitude":-16.0073912143703,
+    "longitude":-47.9895901679979,
+    "endereco":"QUADRA 212313",
+    "bairro":"SANTA MARIA"
+  },
+  {
+    "id":9,
+    "latitude":-15.6149840354915,
+    "longitude":-47.6578116416917,
+    "endereco":"RUA ALEXANDRE SALGADO QUADRA 20 LOTE",
+    "bairro":"SETOR TRADICIONAL"
+  },
+  {
+    "id":10,
+    "latitude":-16.0253727436061,
+    "longitude":-48.0566239356981,
+    "endereco":"ENTRE QUADRA",
+    "bairro":"GAMA DF"
+  },
+  {
+    "id":11,
+    "latitude":-15.8595371246333,
+    "longitude":-48.0239868164049,
+    "endereco":"QS 08 CJ 410 A LT 15",
+    "bairro":"AREAL"
+  },
+  {
+    "id":12,
+    "latitude":-15.8856081962581,
+    "longitude":-48.0239224433885,
+    "endereco":"NA 07 POSTO DE SAUDE AREA ESPECIAL",
+    "bairro":"RIACHO FUNDO"
+  },
+  {
+    "id":13,
+    "latitude":-15.9051239490504,
+    "longitude":-47.7558517456041,
+    "endereco":"RUA DA ESCOLA N 540",
+    "bairro":"VILA NOVA"
+  },
+  {
+    "id":14,
+    "latitude":-15.8955860137935,
+    "longitude":-47.7880382537828,
+    "endereco":"QD 11 CJ N CS 19",
+    "bairro":"MORRO AZUL"
+  },
+  {
+    "id":15,
+    "latitude":-15.8979463577266,
+    "longitude":-47.7611732482896,
+    "endereco":"RUA 14",
+    "bairro":"JOAO CANDIDO"
+  },
+  {
+    "id":16,
+    "latitude":-15.916571617126,
+    "longitude":-47.7717304229722,
+    "endereco":"CHACARA 10",
+    "bairro":"MORRO DA CRUZ"
+  },
+  {
+    "id":17,
+    "latitude":-15.5236172676082,
+    "longitude":-47.618780136107,
+    "endereco":"Q N LT 12",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":18,
+    "latitude":-15.8069336414333,
+    "longitude":-48.1298375129686,
+    "endereco":"AREA ESPECIAL A B C D",
+    "bairro":"CEILANDIA NORTE"
+  },
+  {
+    "id":19,
+    "latitude":-15.6651949882503,
+    "longitude":-48.1980943679796,
+    "endereco":"GLEBA 02 RESERVA A",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":20,
+    "latitude":-15.846877098083,
+    "longitude":-47.8549861907945,
+    "endereco":"SHIS QI 2123",
+    "bairro":"LAGO SUL"
+  },
+  {
+    "id":21,
+    "latitude":-15.8008074760432,
+    "longitude":-47.9421901702867,
+    "endereco":"SHICES",
+    "bairro":"CRUZEIRO"
+  },
+  {
+    "id":22,
+    "latitude":-16.027153730392,
+    "longitude":-48.0263257026658,
+    "endereco":"QR 207307 AE SEM N",
+    "bairro":"SANTA MARIA"
+  },
+  {
+    "id":23,
+    "latitude":-15.890103578567,
+    "longitude":-48.142154216765,
+    "endereco":"QN 429 CONJUNTO F",
+    "bairro":"SAMAMBAIA NORTE"
+  },
+  {
+    "id":24,
+    "latitude":-16.0134530067439,
+    "longitude":-48.0677175521837,
+    "endereco":"QUADRA 38 AREA ESPECIAL LESTE SC",
+    "bairro":"GAMA"
+  },
+  {
+    "id":25,
+    "latitude":-15.9227192401881,
+    "longitude":-48.0437922477708,
+    "endereco":"QC 06 CJ 16 LOTE 01",
+    "bairro":"RIACHO FUNDO II"
+  },
+  {
+    "id":26,
+    "latitude":-15.9012722969051,
+    "longitude":-48.0437493324266,
+    "endereco":"QN8C AE S N",
+    "bairro":"RIACHO FUNDO II"
+  },
+  {
+    "id":27,
+    "latitude":-15.8012902736659,
+    "longitude":-48.0939602851854,
+    "endereco":"QNM 36 AE N",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":28,
+    "latitude":-15.6446492671962,
+    "longitude":-47.8243660926805,
+    "endereco":"AR 17 CHACARA",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":29,
+    "latitude":-15.6548202037807,
+    "longitude":-47.8094744682298,
+    "endereco":"QUADRA 3 AREA ESPECIAL CONJUNTOS",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":30,
+    "latitude":-15.9094369411464,
+    "longitude":-48.049221038817,
+    "endereco":"AREA ESPECIAL QC",
+    "bairro":"RIACHO FUNDO II"
+  },
+  {
+    "id":31,
+    "latitude":-15.967179536819,
+    "longitude":-48.1253743171678,
+    "endereco":"DF 180 KM 65",
+    "bairro":"GAMA"
+  },
+  {
+    "id":32,
+    "latitude":-16.0436546802516,
+    "longitude":-48.2544851303087,
+    "endereco":"RUA LIBANIO",
+    "bairro":"GAMA"
+  },
+  {
+    "id":33,
+    "latitude":-15.7951962947841,
+    "longitude":-47.8480339050279,
+    "endereco":"RUA",
+    "bairro":"VILA PLANALTO"
+  },
+  {
+    "id":34,
+    "latitude":-15.8229839801784,
+    "longitude":-48.0675458908067,
+    "endereco":"SETOR C NORTE",
+    "bairro":"BRASILIA"
+  },
+  {
+    "id":35,
+    "latitude":-15.8703088760371,
+    "longitude":-47.9656219482408,
+    "endereco":"TERCEIRA AVENIDA CENTRO DE SAUDE AREA ESPECIAL",
+    "bairro":"NUCLEO BANDEIRANTE"
+  },
+  {
+    "id":36,
+    "latitude":-15.980322360992,
+    "longitude":-48.0721378326402,
+    "endereco":"DF 457",
+    "bairro":"GAMA"
+  },
+  {
+    "id":37,
+    "latitude":-15.5390453338619,
+    "longitude":-48.1686115264879,
+    "endereco":"PSR ALMECEGAS",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":38,
+    "latitude":-15.7851541042323,
+    "longitude":-48.1365966796861,
+    "endereco":"AE 01 ENTRE RUAS 13 E 15",
+    "bairro":"PRIVE"
+  },
+  {
+    "id":39,
+    "latitude":-15.6333196163173,
+    "longitude":-47.5213623046861,
+    "endereco":"NUCLEO RURAL TAQUARA 201",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":40,
+    "latitude":-15.905767679214,
+    "longitude":-48.0458307266221,
+    "endereco":"QN 07 A B AREA ESPECIAL LOTES 1 E 2",
+    "bairro":"RIACHO FUNDO II"
+  },
+  {
+    "id":41,
+    "latitude":-15.7087004184718,
+    "longitude":-47.9135441780076,
+    "endereco":"AREA ESPECIAL VILA WESLIAN RORIZ",
+    "bairro":"GRANJA TORTO"
+  },
+  {
+    "id":42,
+    "latitude":-15.876585245132,
+    "longitude":-47.793123722075,
+    "endereco":"RUA 07",
+    "bairro":"SAO SEBASTIAO"
+  },
+  {
+    "id":43,
+    "latitude":-15.6201660633083,
+    "longitude":-47.6802349090562,
+    "endereco":"ESTANCIA NOVA PLANALTINA QD 02 R A AREA ESPECIAL",
+    "bairro":"ESTANCIA"
+  },
+  {
+    "id":44,
+    "latitude":-15.9475350379939,
+    "longitude":-48.0149316787706,
+    "endereco":"CAUB I AREA ESPECIAL",
+    "bairro":"RIACHO FUNDO II"
+  },
+  {
+    "id":45,
+    "latitude":-15.6247580051418,
+    "longitude":-47.6515674591051,
+    "endereco":"AV WL 04 SETOR HOSPITALAR OESTE",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":46,
+    "latitude":-15.9931969642635,
+    "longitude":-47.9881095886217,
+    "endereco":"PRACA ESQUADRAO OLIMPIAS",
+    "bairro":"SANTA MARIA"
+  },
+  {
+    "id":47,
+    "latitude":-15.6459367275233,
+    "longitude":-47.8892111778245,
+    "endereco":"AR 01",
+    "bairro":"VILA BASEVI"
+  },
+  {
+    "id":48,
+    "latitude":-15.8183705806728,
+    "longitude":-47.9864573478685,
+    "endereco":"QI 06 AREA ESPECIAL LT A",
+    "bairro":"GUARA I"
+  },
+  {
+    "id":49,
+    "latitude":-15.795539617538,
+    "longitude":-48.059670925139,
+    "endereco":"QNG AREA ESPECIAL",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":50,
+    "latitude":-15.8364593982692,
+    "longitude":-48.0630397796617,
+    "endereco":"QSC 01 AREA ESP",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":51,
+    "latitude":-15.7834482192989,
+    "longitude":-47.9972720146165,
+    "endereco":"AREA ESPECIAL 02 AVENIDA CENTRAL CENTRO DE SAUDE",
+    "bairro":"ESTRUTURAL"
+  },
+  {
+    "id":52,
+    "latitude":-16.016532182693,
+    "longitude":-47.3805141448961,
+    "endereco":"NUCLEO RURAL DE JARDIM",
+    "bairro":"PARANOA"
+  },
+  {
+    "id":53,
+    "latitude":-16.0085391998286,
+    "longitude":-47.5556516647325,
+    "endereco":"BR 251",
+    "bairro":"PARANOA"
+  },
+  {
+    "id":54,
+    "latitude":-16.0103952884669,
+    "longitude":-48.0024218559251,
+    "endereco":"ENTRE Q 212 E 213",
+    "bairro":"SANTA MARIA"
+  },
+  {
+    "id":55,
+    "latitude":-15.9644651412959,
+    "longitude":-48.0997538566575,
+    "endereco":"NUCLEO RURAL CASA GRANDE 12 MA",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":56,
+    "latitude":-15.88415980339,
+    "longitude":-48.0870294570909,
+    "endereco":"QR 501 CONJUNTO 07 LOTE",
+    "bairro":"SAMAMBAIA SUL"
+  },
+  {
+    "id":57,
+    "latitude":-15.6028389930721,
+    "longitude":-47.6482844352708,
+    "endereco":"AREA ESPECIAL ENTREEEQUADRAS 03 04",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":58,
+    "latitude":-16.0116505622859,
+    "longitude":-48.0741977691636,
+    "endereco":"ENTRE QUADRA",
+    "bairro":"SETOR OESTE"
+  },
+  {
+    "id":59,
+    "latitude":-15.8326828479762,
+    "longitude":-47.9096817970262,
+    "endereco":"SGAS Q 612",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":60,
+    "latitude":-15.6504642963405,
+    "longitude":-47.7819657325731,
+    "endereco":"SOBRADINHO",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":61,
+    "latitude":-15.9336304664607,
+    "longitude":-47.9396367073045,
+    "endereco":"AREA RURAL VARGEM BONITA",
+    "bairro":"NUCLEO BANDEIRANTES"
+  },
+  {
+    "id":62,
+    "latitude":-15.8500099182124,
+    "longitude":-47.9514169692979,
+    "endereco":"E Q 5 7 CENTRO DE SAUDE AREA ESPECIAL",
+    "bairro":"CANDANGOLANDIA"
+  },
+  {
+    "id":63,
+    "latitude":-15.6003499031062,
+    "longitude":-47.8716588020311,
+    "endereco":"LOTE 01 RUA 01",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":64,
+    "latitude":-16.0136997699733,
+    "longitude":-48.067417144774,
+    "endereco":"AEREA ESPECIAL N",
+    "bairro":"GAMADF"
+  },
+  {
+    "id":65,
+    "latitude":-15.78,
+    "longitude":-47.93,
+    "endereco":"EQ 217218 E 317318 DE SANTA MARIA",
+    "bairro":"SANTA MARIA"
+  },
+  {
+    "id":66,
+    "latitude":-15.7402324676509,
+    "longitude":-47.7632975578294,
+    "endereco":"QD 378 AREA ESPECIAL",
+    "bairro":"ITAPOA"
+  },
+  {
+    "id":67,
+    "latitude":-15.7040226459499,
+    "longitude":-47.3735404014574,
+    "endereco":"NUCLEO RURAL RIO PRETO DF",
+    "bairro":"COLONIA SAO JOSE"
+  },
+  {
+    "id":68,
+    "latitude":-15.8210635185237,
+    "longitude":-48.0925440788255,
+    "endereco":"EQNL 24 AREA ESP NORTE",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":69,
+    "latitude":-15.9196507930751,
+    "longitude":-48.1016635894761,
+    "endereco":"QUADRA 307 AREA ESPECIAL N 01",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":70,
+    "latitude":-15.783298015594,
+    "longitude":-47.9358386993394,
+    "endereco":"AREA ESPECIAL SETOR ESCOLAR LOTE",
+    "bairro":"CRUZEIRO VELHO"
+  },
+  {
+    "id":71,
+    "latitude":-15.9908902645106,
+    "longitude":-47.8134870529161,
+    "endereco":"DF 140 KM 75",
+    "bairro":"SAO SEBASTIAO"
+  },
+  {
+    "id":72,
+    "latitude":-15.8254301548,
+    "longitude":-47.9240155220018,
+    "endereco":"AV W3 SUL EQS",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":73,
+    "latitude":-16.0458755493159,
+    "longitude":-48.0442428588853,
+    "endereco":"RUA DAS AVENCAS LOTE 01",
+    "bairro":"GAMA"
+  },
+  {
+    "id":74,
+    "latitude":-15.9301865100856,
+    "longitude":-48.1056547164903,
+    "endereco":"AVENIDA MONJOLO QUADRA 311 CJ",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":75,
+    "latitude":-15.914597511291,
+    "longitude":-47.7606368064867,
+    "endereco":"CJ 05 CS 01",
+    "bairro":"SAO FRANCISCO"
+  },
+  {
+    "id":76,
+    "latitude":-15.7465732097621,
+    "longitude":-47.6625108718858,
+    "endereco":"RAJADINHA 2 KM 11 BR 130 CH 3 COQUEIRO",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":77,
+    "latitude":-15.6693577766414,
+    "longitude":-48.199081420897,
+    "endereco":"QD 04 LT 06 LJS 1 E 2",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":78,
+    "latitude":-15.8327364921565,
+    "longitude":-47.9731106758104,
+    "endereco":"QE 23 AREA ESPECIAL",
+    "bairro":"GUARA II"
+  },
+  {
+    "id":79,
+    "latitude":-15.8400750160213,
+    "longitude":-48.1144094467149,
+    "endereco":"EQNP",
+    "bairro":"CEILANDIA"
+  },
+  {
+    "id":80,
+    "latitude":-15.621024370193,
+    "longitude":-47.8215980529771,
+    "endereco":"QD 45 A CONJUNTO A",
+    "bairro":"COND VALE DOS PINHE"
+  },
+  {
+    "id":81,
+    "latitude":-15.8047878742213,
+    "longitude":-48.1435489654527,
+    "endereco":"AREA ESPECIAL SN",
+    "bairro":"CEILANDIA NORTE"
+  },
+  {
+    "id":82,
+    "latitude":-15.78,
+    "longitude":-47.93,
+    "endereco":"QR 202 E 303",
+    "bairro":"SANTA MARIA"
+  },
+  {
+    "id":83,
+    "latitude":-16.0057604312892,
+    "longitude":-48.0526328086839,
+    "endereco":"AREA ESPECIAL",
+    "bairro":"GAMA"
+  },
+  {
+    "id":84,
+    "latitude":-15.8079314231868,
+    "longitude":-48.1206536293016,
+    "endereco":"QNN",
+    "bairro":"CEILANDIA SUL"
+  },
+  {
+    "id":85,
+    "latitude":-15.879642963409,
+    "longitude":-48.0010056495653,
+    "endereco":"QN 01 CONJUNTO 20 CASA",
+    "bairro":"RIACHO FUNDO I"
+  },
+  {
+    "id":86,
+    "latitude":-15.8105170726772,
+    "longitude":-48.0632328987108,
+    "endereco":"CND 02 AREA ESPECIAL",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":87,
+    "latitude":-15.78,
+    "longitude":-47.93,
+    "endereco":"EQNL",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":88,
+    "latitude":-15.6407654285426,
+    "longitude":-47.6402807235704,
+    "endereco":"QUADRA 08 CONJUNTO I",
+    "bairro":"ARAPOANGA"
+  },
+  {
+    "id":89,
+    "latitude":-16.036520004272,
+    "longitude":-48.06130170822,
+    "endereco":"QUADRA",
+    "bairro":"SETOR SUL"
+  },
+  {
+    "id":90,
+    "latitude":-15.8784091472621,
+    "longitude":-48.0685973167405,
+    "endereco":"QN 512 CONJUNTO 2 LOTE",
+    "bairro":"SUL"
+  },
+  {
+    "id":91,
+    "latitude":-15.8078455924983,
+    "longitude":-48.1206536293016,
+    "endereco":"AREA ESPECIAL SN",
+    "bairro":"CEILANDIA NORTE"
+  },
+  {
+    "id":92,
+    "latitude":-15.8289062976833,
+    "longitude":-48.2464814186082,
+    "endereco":"NUCLEO RURAL BOA ESPERANCA",
+    "bairro":"N R B ESPERANCA"
+  },
+  {
+    "id":93,
+    "latitude":-15.9021520614619,
+    "longitude":-48.0599713325486,
+    "endereco":"AV RECANTO DAS EMAS QD 102 AREA ESPECIAL",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":94,
+    "latitude":-15.6190824508662,
+    "longitude":-47.9482841491685,
+    "endereco":"ROD DF 01 KM 13 RUA 08",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":95,
+    "latitude":-15.7429790496822,
+    "longitude":-48.1703066825853,
+    "endereco":"QUADRA 16 LOTE",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":96,
+    "latitude":-15.9093296527858,
+    "longitude":-47.7532553672777,
+    "endereco":"RUA 20 CJ A CS 24",
+    "bairro":"BOSQUE"
+  },
+  {
+    "id":97,
+    "latitude":-15.7696187496181,
+    "longitude":-47.7799057960496,
+    "endereco":"QD 21 AREA ESPECIAL SN",
+    "bairro":"PARANOA"
+  },
+  {
+    "id":98,
+    "latitude":-15.8205592632289,
+    "longitude":-47.5693845748888,
+    "endereco":"NUCLEO RURAL DE TABATINGA SN",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":99,
+    "latitude":-15.7430434226985,
+    "longitude":-47.8914213180528,
+    "endereco":"EQN 114 115",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":100,
+    "latitude":-15.9091258049007,
+    "longitude":-47.7532982826219,
+    "endereco":"RUA 53 CS 81",
+    "bairro":"BOSQUE"
+  },
+  {
+    "id":101,
+    "latitude":-15.7454466819759,
+    "longitude":-47.7696919441209,
+    "endereco":"AREA ESPECIAL ENTRE QUADRA 61 318",
+    "bairro":"ITAPUA"
+  },
+  {
+    "id":102,
+    "latitude":-15.6774258613582,
+    "longitude":-47.6525330543504,
+    "endereco":"CR 71 CASA 177",
+    "bairro":"VALE DO AMANHECER"
+  },
+  {
+    "id":103,
+    "latitude":-15.761497020721,
+    "longitude":-47.8804993629442,
+    "endereco":"EQN 208408",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":104,
+    "latitude":-15.6793248653407,
+    "longitude":-47.6483917236314,
+    "endereco":"NUCLEO RURAL DE SANTOS DUMONT",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":105,
+    "latitude":-15.8031249046321,
+    "longitude":-48.1117057800279,
+    "endereco":"QNM",
+    "bairro":"CEILANDIA NORTE"
+  },
+  {
+    "id":106,
+    "latitude":-15.8900606632228,
+    "longitude":-47.7776527404771,
+    "endereco":"RUA 06",
+    "bairro":"SAO SEBASTIAO"
+  },
+  {
+    "id":107,
+    "latitude":-15.9419775009151,
+    "longitude":-48.2359457015977,
+    "endereco":"QUADRA 03 LOTE 07 DF 280 KM",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":108,
+    "latitude":-15.6770718097682,
+    "longitude":-48.1948328018174,
+    "endereco":"QUADRA NORTE",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":109,
+    "latitude":-15.7983720302577,
+    "longitude":-48.1335496902452,
+    "endereco":"EQN0 1718",
+    "bairro":"EXPSANSAO SETOR O"
+  },
+  {
+    "id":110,
+    "latitude":-15.9630489349361,
+    "longitude":-47.557003498076,
+    "endereco":"NUCLEO RURAL DE CAPAO SECO",
+    "bairro":"PARANOA"
+  },
+  {
+    "id":111,
+    "latitude":-15.6744217872615,
+    "longitude":-48.1990170478807,
+    "endereco":"QUADRA 45 AREA ESPECIAL",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":112,
+    "latitude":-15.9040081501002,
+    "longitude":-47.7722668647752,
+    "endereco":"CENTRO DE MULTIPLAS FUNCOES",
+    "bairro":"CENTRO"
+  },
+  {
+    "id":113,
+    "latitude":-15.8104312419887,
+    "longitude":-47.9887318611131,
+    "endereco":"QE23 AREA ESPECIAL",
+    "bairro":"GUARA I"
+  },
+  {
+    "id":114,
+    "latitude":-15.710706710815,
+    "longitude":-47.8762292861925,
+    "endereco":"Q",
+    "bairro":"VARJAO"
+  },
+  {
+    "id":115,
+    "latitude":-15.8626055717464,
+    "longitude":-48.0791759490953,
+    "endereco":"QDA SERVICO 408 AREA ESPECIAL",
+    "bairro":"NORTE"
+  },
+  {
+    "id":116,
+    "latitude":-15.563560724258,
+    "longitude":-47.9352378845201,
+    "endereco":"ROD DF 205 OESTE KM 13",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":117,
+    "latitude":-15.8758127689357,
+    "longitude":-48.1102466583238,
+    "endereco":"QS 611 AREA ESPECIAL",
+    "bairro":"NORTE"
+  },
+  {
+    "id":118,
+    "latitude":-15.7802188396449,
+    "longitude":-47.9998683929429,
+    "endereco":"QD 15 CONJUNTO L CASA",
+    "bairro":"ESTRUTURAL"
+  },
+  {
+    "id":119,
+    "latitude":-15.6340706348415,
+    "longitude":-47.8378629684434,
+    "endereco":"QMS 30 A AREA ESPECIAL",
+    "bairro":"COND MINI CHACARA"
+  },
+  {
+    "id":120,
+    "latitude":-15.6353259086604,
+    "longitude":-47.670278549193,
+    "endereco":"CONDOMINIO CACHOEIRA LOTE",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":121,
+    "latitude":-15.5343568325038,
+    "longitude":-47.5109553337083,
+    "endereco":"NUCLEO RURAL DO PIPIRIPAU",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":122,
+    "latitude":-15.7626235485072,
+    "longitude":-47.493059635161,
+    "endereco":"NUCLEO RURAL RIO PRETO",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":123,
+    "latitude":-15.8489906787868,
+    "longitude":-47.9703211784349,
+    "endereco":"QE 38 AREA ESPECIAL",
+    "bairro":"GUARA II"
+  },
+  {
+    "id":124,
+    "latitude":-15.9070014953609,
+    "longitude":-47.5177145004259,
+    "endereco":"NUCLEO RURAL DE CARIRU",
+    "bairro":"PARANOA"
+  },
+  {
+    "id":125,
+    "latitude":-15.9076666831966,
+    "longitude":-47.7775454521165,
+    "endereco":"QD 301 CJ 06 LT 01",
+    "bairro":"RESIDENCIAL OESTE"
+  },
+  {
+    "id":126,
+    "latitude":-15.8512651920314,
+    "longitude":-48.0473542213426,
+    "endereco":"SETOR D SUL AREA ESP N",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":127,
+    "latitude":-15.7734704017635,
+    "longitude":-47.892365455626,
+    "endereco":"SGAN",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":128,
+    "latitude":-15.7255876064296,
+    "longitude":-47.8740835189805,
+    "endereco":"SHIN QI",
+    "bairro":"LAGO NORTE"
+  },
+  {
+    "id":129,
+    "latitude":-15.8355689048762,
+    "longitude":-48.1050109863267,
+    "endereco":"AREA ESPECIAL SN",
+    "bairro":"CEILANDIA SUL"
+  },
+  {
+    "id":130,
+    "latitude":-15.6122589111324,
+    "longitude":-47.6433491706834,
+    "endereco":"ENTRE QUADRAS 110 AREA ESPECIAL",
+    "bairro":"PLANALTINA"
+  },
+  {
+    "id":131,
+    "latitude":-15.9021949768062,
+    "longitude":-48.0602717399583,
+    "endereco":"QUADRA 102 AREA ESPECIAL N",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":132,
+    "latitude":-15.6389522552486,
+    "longitude":-47.6473617553697,
+    "endereco":"QUADRA 12 CONJ A AREA ESPECIAL C E FUTEBOL",
+    "bairro":"ARAPOANGA"
+  },
+  {
+    "id":133,
+    "latitude":-15.800896,
+    "longitude":-47.888969,
+    "endereco":"SHIS, Quadra 101 Bloco B - Area Especial",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":134,
+    "latitude":-15.813201,
+    "longitude":-47.912131,
+    "endereco":"Seps 710/910 Cj D, s/n",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":135,
+    "latitude":-15.735378,
+    "longitude":-47.895309,
+    "endereco":"SHLN BL G, 516 qd 516 lt 7 - Asa Norte ",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":136,
+    "latitude":-15.828578,
+    "longitude":-47.929166,
+    "endereco":"SHLS Q 716, 0 cj C - Asa Sul ",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":137,
+    "latitude":-15.735693,
+    "longitude":-47.897239,
+    "endereco":"SHLN 516 cj D  - Asa Norte",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":138,
+    "latitude":-15.845447,
+    "longitude":-47.88299,
+    "endereco":"SHIS QI 15 Area Especial",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":139,
+    "latitude":-15.675074,
+    "longitude":-48.203996,
+    "endereco":"Area Especial numero 6, Setor tradicional - Brazlandia",
+    "bairro":"BRAZLANDIA"
+  },
+  {
+    "id":140,
+    "latitude":-15.798894,
+    "longitude":-47.890001,
+    "endereco":"SMHS Quadra 301 Bloco A - Asa Sul",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":141,
+    "latitude":-15.827313,
+    "longitude":-47.930522,
+    "endereco":"SHLS 716 Conjunto E - Asa Sul",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":142,
+    "latitude":-15.841474,
+    "longitude":-47.885285,
+    "endereco":"SHLS 716 Conjunto E - Asa Sul",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":143,
+    "latitude":-15.821942,
+    "longitude":-47.896106,
+    "endereco":"Av. L2 Sul Quadra 608, Modulo A",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":144,
+    "latitude":-15.785673,
+    "longitude":-47.882863,
+    "endereco":"SMHN 101 Area Especial - Asa Norte",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":145,
+    "latitude":-15.815309,
+    "longitude":-47.908292,
+    "endereco":"SAAN Quadra 1 Lote 25/35 - Asa Norte",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":146,
+    "latitude":-15.859855,
+    "longitude":-48.042606,
+    "endereco":"Setor E, Area Especial 01 e 17, Taguatinga Sul",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":147,
+    "latitude":-15.772759,
+    "longitude":-47.930484,
+    "endereco":"Smu Hgub, bl Sn",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":148,
+    "latitude":-15.814717,
+    "longitude":-47.914739,
+    "endereco":"SEPS 711/911, s/n bl A",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":149,
+    "latitude":-15.648612,
+    "longitude":-47.79229,
+    "endereco":"Quadra 12 - Area Especial - Setor Central\n Sobradinho",
+    "bairro":"SOBRADINHO"
+  },
+  {
+    "id":150,
+    "latitude":-15.801392,
+    "longitude":-47.936691,
+    "endereco":" Estrada Contorno do Bosque, Cruzeiro Novo",
+    "bairro":"CRUZEIRO NOVO"
+  },
+  {
+    "id":151,
+    "latitude":-15.82016,
+    "longitude":-47.926535,
+    "endereco":"Setor de Grandes Areas Sul 915",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":152,
+    "latitude":-15.833847,
+    "longitude":-47.911386,
+    "endereco":"Sgas 613, Conjunto C, Asa Sul",
+    "bairro":"ASA SUL"
+  },
+  {
+    "id":153,
+    "latitude":-15.760302,
+    "longitude":-47.876796,
+    "endereco":"R. SGAN 608 Md F - Asa norte",
+    "bairro":"ASA  NORTE"
+  },
+  {
+    "id":154,
+    "latitude":-15.759256,
+    "longitude":-47.915299,
+    "endereco":"Sain Lt 04 - Srpn",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":155,
+    "latitude":-15.759768,
+    "longitude":-47.917464,
+    "endereco":"Lt 04, Shcnw Trecho 2 - SRPN",
+    "bairro":"ASA NORTE"
+  },
+  {
+    "id":156,
+    "latitude":-15.823967,
+    "longitude":-48.066628,
+    "endereco":"Area Especial 8, ae 8/9 sl 118 B",
+    "bairro":"TAGUATINGA"
+  },
+  {
+    "id":157,
+    "latitude":-15.870194,
+    "longitude":-47.965691,
+    "endereco":"Area Especial 03, 3a Avenida - NUcleo Bandeirante",
+    "bairro":"NUCLEO BANDEIRANTE"
+  },
+  {
+    "id":158,
+    "latitude":-15.885181,
+    "longitude":-48.023552,
+    "endereco":"Riacho Fundo I Ac 4 Qn 9",
+    "bairro":"RIACHO FUNDO I"
+  },
+  {
+    "id":159,
+    "latitude":-15.905819,
+    "longitude":-48.046297,
+    "endereco":"Riacho Fundo II-1A Etapa Qn 7B Conjunto 3",
+    "bairro":"RIACHO FUNDO II"
+  },
+  {
+    "id":160,
+    "latitude":-15.81771,
+    "longitude":-47.986099,
+    "endereco":"Area Especial - QI O6 Lote C - Guara I",
+    "bairro":"GUARA I"
+  },
+  {
+    "id":161,
+    "latitude":-15.911784,
+    "longitude":-48.057594,
+    "endereco":"Quadra 400/600 Area Especial",
+    "bairro":"RECANTO DAS EMAS"
+  },
+  {
+    "id":162,
+    "latitude":-15.900793,
+    "longitude":-47.777748,
+    "endereco":"Quadra 102 Conjunto 1 Lote 1",
+    "bairro":"SAO SEBASTIAO"
+  },
+  {
+    "id":163,
+    "latitude":-15.883017,
+    "longitude":-48.099695,
+    "endereco":"QS 107 Conjunto 4 Area Especial",
+    "bairro":"SAMAMBAIA"
+  },
+  {
+    "id":164,
+    "latitude":-15.875977,
+    "longitude":-47.982235,
+    "endereco":" DF-075, KM 180, Area Especial EPNB",
+    "bairro":"NuCLEO BANDEIRANTE"
+  }
+]

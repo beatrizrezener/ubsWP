@@ -1,0 +1,822 @@
+[
+  {
+    "id":1,
+    "idUnidade":1,
+    "telefone":"(61) 34843540"
+  },
+  {
+    "id":2,
+    "idUnidade":2,
+    "telefone":"(61) 34597151"
+  },
+  {
+    "id":3,
+    "idUnidade":3,
+    "telefone":"(61) 34854898"
+  },
+  {
+    "id":4,
+    "idUnidade":4,
+    "telefone":"(61) 33917848"
+  },
+  {
+    "id":5,
+    "idUnidade":5,
+    "telefone":"(61) 33694979"
+  },
+  {
+    "id":6,
+    "idUnidade":6,
+    "telefone":"(61) 33711106"
+  },
+  {
+    "id":7,
+    "idUnidade":7,
+    "telefone":"(61) 35852088"
+  },
+  {
+    "id":8,
+    "idUnidade":8,
+    "telefone":"(61) 33945616"
+  },
+  {
+    "id":9,
+    "idUnidade":9,
+    "telefone":"(61) 33891520"
+  },
+  {
+    "id":10,
+    "idUnidade":10,
+    "telefone":"(61) 35566878"
+  },
+  {
+    "id":11,
+    "idUnidade":11,
+    "telefone":"(61) 33560436"
+  },
+  {
+    "id":12,
+    "idUnidade":12,
+    "telefone":"(61) 33998403"
+  },
+  {
+    "id":13,
+    "idUnidade":13,
+    "telefone":"(61) 3355570"
+  },
+  {
+    "id":14,
+    "idUnidade":14,
+    "telefone":"(61) 33356115"
+  },
+  {
+    "id":15,
+    "idUnidade":15,
+    "telefone":"(61) 33390006"
+  },
+  {
+    "id":16,
+    "idUnidade":16,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":17,
+    "idUnidade":17,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":18,
+    "idUnidade":18,
+    "telefone":"(61) 35853654"
+  },
+  {
+    "id":19,
+    "idUnidade":19,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":20,
+    "idUnidade":20,
+    "telefone":"(61) 33662530"
+  },
+  {
+    "id":21,
+    "idUnidade":21,
+    "telefone":"(61)2330040"
+  },
+  {
+    "id":22,
+    "idUnidade":22,
+    "telefone":"(61) 33936473"
+  },
+  {
+    "id":23,
+    "idUnidade":23,
+    "telefone":"(61) 33595500"
+  },
+  {
+    "id":24,
+    "idUnidade":24,
+    "telefone":"(61) 35565111"
+  },
+  {
+    "id":25,
+    "idUnidade":25,
+    "telefone":"(61) 34045299"
+  },
+  {
+    "id":26,
+    "idUnidade":26,
+    "telefone":"(61) 33330109"
+  },
+  {
+    "id":27,
+    "idUnidade":27,
+    "telefone":"(61) 33712888"
+  },
+  {
+    "id":28,
+    "idUnidade":28,
+    "telefone":"(61) 34856775"
+  },
+  {
+    "id":29,
+    "idUnidade":29,
+    "telefone":"(61) 34872196"
+  },
+  {
+    "id":30,
+    "idUnidade":30,
+    "telefone":"(61) 34043931"
+  },
+  {
+    "id":31,
+    "idUnidade":31,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":32,
+    "idUnidade":32,
+    "telefone":"(61) 33594180"
+  },
+  {
+    "id":33,
+    "idUnidade":33,
+    "telefone":"(61) 33061198"
+  },
+  {
+    "id":34,
+    "idUnidade":34,
+    "telefone":"(61) 35611310"
+  },
+  {
+    "id":35,
+    "idUnidade":35,
+    "telefone":"(61) 35520544"
+  },
+  {
+    "id":36,
+    "idUnidade":36,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":37,
+    "idUnidade":37,
+    "telefone":"(61) 3515865"
+  },
+  {
+    "id":38,
+    "idUnidade":38,
+    "telefone":"(61) 33740979"
+  },
+  {
+    "id":39,
+    "idUnidade":39,
+    "telefone":"(61) 34858973"
+  },
+  {
+    "id":40,
+    "idUnidade":40,
+    "telefone":"(61) 34341125"
+  },
+  {
+    "id":41,
+    "idUnidade":41,
+    "telefone":"(61) 34687323"
+  },
+  {
+    "id":42,
+    "idUnidade":42,
+    "telefone":"(61) 33352482"
+  },
+  {
+    "id":43,
+    "idUnidade":43,
+    "telefone":"(61) 34885853"
+  },
+  {
+    "id":44,
+    "idUnidade":44,
+    "telefone":"(61) 33387810"
+  },
+  {
+    "id":45,
+    "idUnidade":45,
+    "telefone":"(61) 33889678"
+  },
+  {
+    "id":46,
+    "idUnidade":46,
+    "telefone":"(61) 33945650"
+  },
+  {
+    "id":47,
+    "idUnidade":47,
+    "telefone":"(61) 30343792"
+  },
+  {
+    "id":48,
+    "idUnidade":48,
+    "telefone":"(61) 35683296"
+  },
+  {
+    "id":49,
+    "idUnidade":49,
+    "telefone":"(61) 33541441"
+  },
+  {
+    "id":50,
+    "idUnidade":50,
+    "telefone":"(61) 33515043"
+  },
+  {
+    "id":51,
+    "idUnidade":51,
+    "telefone":"(61) 34657846"
+  },
+  {
+    "id":52,
+    "idUnidade":52,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":53,
+    "idUnidade":53,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":54,
+    "idUnidade":54,
+    "telefone":"(61) 33943988"
+  },
+  {
+    "id":55,
+    "idUnidade":55,
+    "telefone":"(61) 34043846"
+  },
+  {
+    "id":56,
+    "idUnidade":56,
+    "telefone":"(61) 33570465"
+  },
+  {
+    "id":57,
+    "idUnidade":57,
+    "telefone":"(61) 33880448"
+  },
+  {
+    "id":58,
+    "idUnidade":58,
+    "telefone":"(61)5560980"
+  },
+  {
+    "id":59,
+    "idUnidade":59,
+    "telefone":"(61) 33452873"
+  },
+  {
+    "id":60,
+    "idUnidade":60,
+    "telefone":"(61) 35912779"
+  },
+  {
+    "id":61,
+    "idUnidade":61,
+    "telefone":"(61) 33801095"
+  },
+  {
+    "id":62,
+    "idUnidade":62,
+    "telefone":"(61) 33015444"
+  },
+  {
+    "id":63,
+    "idUnidade":63,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":64,
+    "idUnidade":64,
+    "telefone":"(61) 35561032"
+  },
+  {
+    "id":65,
+    "idUnidade":65,
+    "telefone":"(61) 33945616"
+  },
+  {
+    "id":66,
+    "idUnidade":66,
+    "telefone":"(61) 34674723"
+  },
+  {
+    "id":67,
+    "idUnidade":67,
+    "telefone":"(61)3883264"
+  },
+  {
+    "id":68,
+    "idUnidade":68,
+    "telefone":"(61) 34752912"
+  },
+  {
+    "id":69,
+    "idUnidade":69,
+    "telefone":"(61) 33314773"
+  },
+  {
+    "id":70,
+    "idUnidade":70,
+    "telefone":"(61) 2341666"
+  },
+  {
+    "id":71,
+    "idUnidade":71,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":72,
+    "idUnidade":72,
+    "telefone":"(61) 324521775"
+  },
+  {
+    "id":73,
+    "idUnidade":73,
+    "telefone":"(61) 33921572"
+  },
+  {
+    "id":74,
+    "idUnidade":74,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":75,
+    "idUnidade":75,
+    "telefone":"(61) 33398836"
+  },
+  {
+    "id":76,
+    "idUnidade":76,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":77,
+    "idUnidade":77,
+    "telefone":"(61) 34795787"
+  },
+  {
+    "id":78,
+    "idUnidade":78,
+    "telefone":"(61) 35673055"
+  },
+  {
+    "id":79,
+    "idUnidade":79,
+    "telefone":"(61) 33761335"
+  },
+  {
+    "id":80,
+    "idUnidade":80,
+    "telefone":"(61) 34854292"
+  },
+  {
+    "id":81,
+    "idUnidade":81,
+    "telefone":"(61) 33746556"
+  },
+  {
+    "id":82,
+    "idUnidade":82,
+    "telefone":"(61) 33932901"
+  },
+  {
+    "id":83,
+    "idUnidade":83,
+    "telefone":"(61) 35566689"
+  },
+  {
+    "id":84,
+    "idUnidade":84,
+    "telefone":"(61) 3713040"
+  },
+  {
+    "id":85,
+    "idUnidade":85,
+    "telefone":"(61) 33990491"
+  },
+  {
+    "id":86,
+    "idUnidade":86,
+    "telefone":"(61) 33543020"
+  },
+  {
+    "id":87,
+    "idUnidade":87,
+    "telefone":"(61) 33363028"
+  },
+  {
+    "id":88,
+    "idUnidade":88,
+    "telefone":"(61) 34891557"
+  },
+  {
+    "id":89,
+    "idUnidade":89,
+    "telefone":"(61) 34847220"
+  },
+  {
+    "id":90,
+    "idUnidade":90,
+    "telefone":"(61) 33581335"
+  },
+  {
+    "id":91,
+    "idUnidade":91,
+    "telefone":"(61) 35852288"
+  },
+  {
+    "id":92,
+    "idUnidade":92,
+    "telefone":"(61) 35062082"
+  },
+  {
+    "id":93,
+    "idUnidade":93,
+    "telefone":"(61) 34346904"
+  },
+  {
+    "id":94,
+    "idUnidade":94,
+    "telefone":"(61) 33021017"
+  },
+  {
+    "id":95,
+    "idUnidade":95,
+    "telefone":"(61) 35401282"
+  },
+  {
+    "id":96,
+    "idUnidade":96,
+    "telefone":"(61) 33395219"
+  },
+  {
+    "id":97,
+    "idUnidade":97,
+    "telefone":"(61) 3691467"
+  },
+  {
+    "id":98,
+    "idUnidade":98,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":99,
+    "idUnidade":99,
+    "telefone":"(61) 32722948"
+  },
+  {
+    "id":100,
+    "idUnidade":100,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":101,
+    "idUnidade":101,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":102,
+    "idUnidade":102,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":103,
+    "idUnidade":103,
+    "telefone":"(61) 32743455"
+  },
+  {
+    "id":104,
+    "idUnidade":104,
+    "telefone":"(61) 34890488"
+  },
+  {
+    "id":105,
+    "idUnidade":105,
+    "telefone":"(61) 33711672"
+  },
+  {
+    "id":106,
+    "idUnidade":106,
+    "telefone":"(61) 33358778"
+  },
+  {
+    "id":107,
+    "idUnidade":107,
+    "telefone":"(61) 33597003"
+  },
+  {
+    "id":108,
+    "idUnidade":108,
+    "telefone":"(61) 33911533"
+  },
+  {
+    "id":109,
+    "idUnidade":109,
+    "telefone":"(61) 35852288"
+  },
+  {
+    "id":110,
+    "idUnidade":110,
+    "telefone":"(61) 35064000"
+  },
+  {
+    "id":111,
+    "idUnidade":111,
+    "telefone":"(61) 33911771"
+  },
+  {
+    "id":112,
+    "idUnidade":112,
+    "telefone":"(61) 33356221"
+  },
+  {
+    "id":113,
+    "idUnidade":113,
+    "telefone":"(61) 3823555"
+  },
+  {
+    "id":114,
+    "idUnidade":114,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":115,
+    "idUnidade":115,
+    "telefone":"(61) 3582811"
+  },
+  {
+    "id":116,
+    "idUnidade":116,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":117,
+    "idUnidade":117,
+    "telefone":"(61) 34599316"
+  },
+  {
+    "id":118,
+    "idUnidade":118,
+    "telefone":"(61) 34655811"
+  },
+  {
+    "id":119,
+    "idUnidade":119,
+    "telefone":"(61) 35951883"
+  },
+  {
+    "id":120,
+    "idUnidade":120,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":121,
+    "idUnidade":121,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":122,
+    "idUnidade":122,
+    "telefone":"(61)3883264"
+  },
+  {
+    "id":123,
+    "idUnidade":123,
+    "telefone":"(61) 33011187"
+  },
+  {
+    "id":124,
+    "idUnidade":124,
+    "telefone":"Nao disponivel"
+  },
+  {
+    "id":125,
+    "idUnidade":125,
+    "telefone":"(61) 33358173"
+  },
+  {
+    "id":126,
+    "idUnidade":126,
+    "telefone":"(61) 35612072"
+  },
+  {
+    "id":127,
+    "idUnidade":127,
+    "telefone":"(61) 32748118"
+  },
+  {
+    "id":128,
+    "idUnidade":128,
+    "telefone":"(61) 35772092"
+  },
+  {
+    "id":129,
+    "idUnidade":129,
+    "telefone":"(61) 33761946"
+  },
+  {
+    "id":130,
+    "idUnidade":130,
+    "telefone":"(61) 33891866"
+  },
+  {
+    "id":131,
+    "idUnidade":131,
+    "telefone":"(61) 33336326"
+  },
+  {
+    "id":132,
+    "idUnidade":132,
+    "telefone":"(61) 34891472"
+  },
+  {
+    "id":133,
+    "idUnidade":133,
+    "telefone":"(61) 33151200"
+  },
+  {
+    "id":134,
+    "idUnidade":134,
+    "telefone":"(61) 34429200"
+  },
+  {
+    "id":135,
+    "idUnidade":135,
+    "telefone":"(61) 34489100"
+  },
+  {
+    "id":136,
+    "idUnidade":136,
+    "telefone":"(61) 34450000"
+  },
+  {
+    "id":137,
+    "idUnidade":137,
+    "telefone":"(61) 32150000"
+  },
+  {
+    "id":138,
+    "idUnidade":138,
+    "telefone":"(61) 37049000"
+  },
+  {
+    "id":139,
+    "idUnidade":139,
+    "telefone":"(61) 33191832"
+  },
+  {
+    "id":140,
+    "idUnidade":140,
+    "telefone":"(61) 33191111"
+  },
+  {
+    "id":141,
+    "idUnidade":141,
+    "telefone":"(61) 34456000"
+  },
+  {
+    "id":142,
+    "idUnidade":142,
+    "telefone":"(61) 32484848"
+  },
+  {
+    "id":143,
+    "idUnidade":143,
+    "telefone":"(61) 34457500"
+  },
+  {
+    "id":144,
+    "idUnidade":144,
+    "telefone":"(61) 33254300"
+  },
+  {
+    "id":145,
+    "idUnidade":145,
+    "telefone":"(61) 32483030"
+  },
+  {
+    "id":146,
+    "idUnidade":146,
+    "telefone":"(61) 34513000"
+  },
+  {
+    "id":147,
+    "idUnidade":147,
+    "telefone":"(61) 33626300"
+  },
+  {
+    "id":148,
+    "idUnidade":148,
+    "telefone":"(61) 34457300"
+  },
+  {
+    "id":149,
+    "idUnidade":149,
+    "telefone":"(61) 34856775"
+  },
+  {
+    "id":150,
+    "idUnidade":150,
+    "telefone":"(61) 39662555"
+  },
+  {
+    "id":151,
+    "idUnidade":151,
+    "telefone":"(61) 39624409"
+  },
+  {
+    "id":152,
+    "idUnidade":152,
+    "telefone":"(61) 38782878"
+  },
+  {
+    "id":153,
+    "idUnidade":153,
+    "telefone":"(61) 32622200"
+  },
+  {
+    "id":154,
+    "idUnidade":154,
+    "telefone":"(61) 39054700"
+  },
+  {
+    "id":155,
+    "idUnidade":155,
+    "telefone":"(61) 30258350"
+  },
+  {
+    "id":156,
+    "idUnidade":156,
+    "telefone":"(61) 33539000"
+  },
+  {
+    "id":157,
+    "idUnidade":157,
+    "telefone":"(61) 33865694"
+  },
+  {
+    "id":158,
+    "idUnidade":158,
+    "telefone":"(61) 33993064"
+  },
+  {
+    "id":159,
+    "idUnidade":159,
+    "telefone":"(61) 34341125"
+  },
+  {
+    "id":160,
+    "idUnidade":160,
+    "telefone":"(61) 33531500"
+  },
+  {
+    "id":161,
+    "idUnidade":161,
+    "telefone":"(61) 34346890"
+  },
+  {
+    "id":162,
+    "idUnidade":162,
+    "telefone":"(61) 33357664"
+  },
+  {
+    "id":163,
+    "idUnidade":163,
+    "telefone":"(61) 34593282"
+  },
+  {
+    "id":164,
+    "idUnidade":164,
+    "telefone":"(61) 33860447"
+  }
+]

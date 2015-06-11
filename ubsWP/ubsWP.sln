@@ -11,13 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ubsWP.Windows", "ubsWP\ubsW
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ubsWP.WindowsPhone", "ubsWP\ubsWP.WindowsPhone\ubsWP.WindowsPhone.csproj", "{9F1C319C-3497-47E8-B957-10E0C0B85613}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "saudf", "saudf", "{3E2B3978-73F8-4978-99E7-FF9773EEE7FD}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "mapa", "mapa", "{3E2B3978-73F8-4978-99E7-FF9773EEE7FD}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "saudf.Shared", "saudf\saudf.Shared\saudf.Shared.shproj", "{E0A8BC60-D8B0-4DB8-8F13-59BFD4D253A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saudf.Windows", "saudf\saudf.Windows\saudf.Windows.csproj", "{4EE8906D-509A-409E-9519-46E881FB4C02}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapa.Windows", "saudf\saudf.Windows\mapa.Windows.csproj", "{4EE8906D-509A-409E-9519-46E881FB4C02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saudf.WindowsPhone", "saudf\saudf.WindowsPhone\saudf.WindowsPhone.csproj", "{41470578-C38A-4D4E-90B1-51E19585C612}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mapa.WindowsPhone", "saudf\saudf.WindowsPhone\mapa.WindowsPhone.csproj", "{41470578-C38A-4D4E-90B1-51E19585C612}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution

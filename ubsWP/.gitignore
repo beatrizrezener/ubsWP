@@ -1,0 +1,12 @@
+#Ignore files created by Visual Studio
+*.suo
+*.user
+*.cache
+obj/*
+bin/*
+ubsWP/**/obj/*
+ubsWP/**/bin/*
+ubsWP/saudf/saudf.WindowsPhone/obj/*
+ubsWP/saudf/saudf.WindowsPhone/bin/*
+ubsWP/ubsWP/ubsWP.WindowsPhone/obj/*
+ubsWP/ubsWP/ubsWP.WindowsPhone/bin/*
